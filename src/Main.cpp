@@ -3,6 +3,6 @@
 void Log(const char* message);
 
 int main() {
-  Log("Hello World from a func");
+  Log("Hello World from declaration");
   std::cin.get();
 }
