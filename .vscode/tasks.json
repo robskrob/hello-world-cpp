@@ -9,7 +9,6 @@
                 "-fansi-escape-codes",
                 "-g",
                 "${fileDirname}/**.cpp",
-                "${fileDirname}/**.h",
                 "-o",
                 "${fileDirname}/${fileBasenameNoExtension}"
             ],
